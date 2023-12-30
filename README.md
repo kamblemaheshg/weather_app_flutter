@@ -1,7 +1,5 @@
 # Flutter Weather App
 
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
-
 Welcome to the Flutter Weather App! This application allows you to check the current weather conditions using the OpenWeather API. The state management in this app is handled using the Provider package.
 
 ## Features
@@ -23,7 +21,7 @@ Welcome to the Flutter Weather App! This application allows you to check the cur
    git clone https://github.com/kamblemaheshg/weather_app_flutter
    cd flutter-weather-app
 
-2. **Run on your platform
+2. **Run on your platform**
 
    ````bash
     flutter pub get
