@@ -31,7 +31,7 @@ Welcome to the Flutter Weather App! This application allows you to check the cur
 
 ## Demo Video
 
-![4p9p4o](https://github.com/kamblemaheshg/weather_app_flutter/assets/90838761/c3bd31e4-345d-4621-a436-520a4bcc2434.gif)
+![4p9p4o](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/demo_video.gif)
 
 ## Screenshots
 
