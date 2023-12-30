@@ -31,13 +31,13 @@ Welcome to the Flutter Weather App! This application allows you to check the cur
 
 ## Demo Video
 
-[![Watch the Demo Video]([https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/demo_video.gif])
+[![Watch the Demo Video]](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/demo_video.gif)
 
 ## Screenshots
 
-![Screenshot 1]([https://example.com/screenshot1.png](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)
-![Screenshot 2]([https://example.com/screenshot2.png](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)
-![Screenshot 3]([https://example.com/screenshot2.png](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_dashboard.jpg)
-![Screenshot 4]([https://example.com/screenshot2.png](https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_profile.jpg)
+![Screenshot 1]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)
+![Screenshot 2]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)
+![Screenshot 3]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_dashboard.jpg)
+![Screenshot 4]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_profile.jpg)
 
 
