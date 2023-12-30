@@ -35,7 +35,7 @@ Welcome to the Flutter Weather App! This application allows you to check the cur
 
 ## Screenshots
 
-![Screenshot 1]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg)
+![Screenshot 1]([https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_dashboard.jpg])
 ![Screenshot 2]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)
 ![Screenshot 3]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_dashboard.jpg)
 ![Screenshot 4]((https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/dark_theme_profile.jpg)https://github.com/kamblemaheshg/weather_app_flutter/blob/main/demo/light_theme_profile.jpg)
